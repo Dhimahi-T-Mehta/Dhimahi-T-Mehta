@@ -102,150 +102,96 @@
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
+## 🛡 PromptShield
 
-<td width="50%" valign="top">
+> **Enterprise AI Firewall for Large Language Models**
 
-## 🛡️ PromptShield
+Protects LLM applications against **Prompt Injection**, **Jailbreaks**, **PII Extraction**, and **Role Manipulation** using a layered AI security architecture.
 
-### AI-Powered LLM Firewall
+<p align="left">
 
-An enterprise-style AI security middleware that protects Large Language Models against modern prompt-based attacks.
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/DistilBERT-FFCC00?style=flat-square"/>
 
-### ✨ Highlights
-
-- 🔐 Prompt Injection Detection
-- 🚫 Jailbreak Detection
-- 🕵️ PII Detection & Redaction
-- 🎭 Role Manipulation Detection
-- 📊 Explainable Risk Analysis
-- ⚡ FastAPI + React Dashboard
-
-### 🛠 Tech Stack
-
-`Python` `FastAPI` `React`
-`DistilBERT`
-`Transformers`
-`Presidio`
-`SQLite`
+</p>
 
 <p align="center">
 <a href="https://github.com/Dhimahi-T-Mehta/PromptShield">
-<img src="https://img.shields.io/badge/View_Project-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repository-00C2FF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌐 BrowserGuard
-
-### Privacy-First Browser Security
-
-AI-powered Chrome Extension that performs phishing and cryptojacking detection completely inside the browser.
-
-### ✨ Highlights
-
-- 🛡️ Zero-Day Phishing Detection
-- ⚡ ONNX Runtime + WebAssembly
-- 🔒 100% Client-side Inference
-- 🌐 Chrome Manifest V3
-- 🧠 XGBoost Threat Model
-- 🚨 Real-time Website Blocking
-
-### 🛠 Tech Stack
-
-`JavaScript`
-`XGBoost`
-`ONNX`
-`WebAssembly`
-`Manifest V3`
-
-<p align="center">
-<a href="https://github.com/Dhimahi-T-Mehta/BrowserGuard">
-<img src="https://img.shields.io/badge/View_Project-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 😊 AuraID
-
-### AI Facial Emotion Recognition
-
-Real-time facial emotion recognition system using Computer Vision and Deep Learning.
-
-### ✨ Highlights
-
-- 😊 Multi-face Emotion Detection
-- 📷 Live Camera Feed
-- 🎯 Confidence Prediction
-- 🧠 TensorFlow Model
-- ⚡ Real-time Inference
-- 💻 Interactive Dashboard
-
-### 🛠 Tech Stack
-
-`Python`
-`TensorFlow`
-`OpenCV`
-`MediaPipe`
-`Flask`
-
-<p align="center">
-<a href="https://github.com/Dhimahi-T-Mehta/AuraID">
-<img src="https://img.shields.io/badge/View_Project-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎙️ VocalEyes
-
-### Multimodal AI Assistant
-
-An intelligent assistant capable of understanding voice, text and images through Generative AI.
-
-### ✨ Highlights
-
-- 🎤 Voice Interaction
-- 🖼 Image Understanding
-- 💬 Conversational AI
-- 🤖 Gemini Integration
-- 🔗 LangChain Workflow
-- 🗣 Murf AI Voice
-
-### 🛠 Tech Stack
-
-`Python`
-`Gemini API`
-`LangChain`
-`Murf AI`
-
-<p align="center">
-<a href="https://github.com/Dhimahi-T-Mehta/VocalEyes">
-<img src="https://img.shields.io/badge/View_Project-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
+## 🌐 BrowserGuard
+
+> **Privacy-First AI Browser Security**
+
+AI-powered Chrome Extension that performs phishing and cryptojacking detection **100% locally** using ONNX Runtime, WebAssembly, and XGBoost.
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/XGBoost-0066CC?style=flat-square"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx"/>
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly"/>
+<img src="https://img.shields.io/badge/Chrome%20MV3-4285F4?style=flat-square"/>
+
+</p>
+  
+<p align="center">
+<a href="https://github.com/Dhimahi-T-Mehta/BrowserGuard">
+<img src="https://img.shields.io/badge/View%20Repository-00C2FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+
+---
+
+## 😊 AuraID
+
+> **Real-Time Facial Emotion Recognition**
+
+Computer Vision application capable of detecting multiple facial expressions with real-time confidence prediction.
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/Dhimahi-T-Mehta/AuraID">
+<img src="https://img.shields.io/badge/View%20Repository-00C2FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+---
+
+## 🎙 VocalEyes
+
+> **Multimodal AI Assistant**
+
+AI assistant capable of understanding **voice**, **text**, and **images** through modern Generative AI workflows.
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Murf%20AI-00B4D8?style=flat-square"/>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/Dhimahi-T-Mehta/VocalEyes">
+<img src="https://img.shields.io/badge/View%20Repository-00C2FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+---
 # 🛰️ Current Mission
 
 ```text
